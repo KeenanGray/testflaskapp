@@ -7,7 +7,6 @@ meson==0.56.0
 numpy==1.19.4
 psycopg2==2.8.6
 PyQt5==5.15.2
-PyQt5-sip==4.19.24
 pytz==2021.1
 sqlparse==0.4.1
 TBB==0.1
